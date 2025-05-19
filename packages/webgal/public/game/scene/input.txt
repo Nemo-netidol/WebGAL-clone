@@ -1,0 +1,4 @@
+getUserInput:name -title=What are you thinking? -buttonText=OK;
+setVar:userInput=123 -global;
+setVar:userInput=name;
+changeScene:../API/response.txt;
